@@ -1,1 +1,2 @@
-This is sample two branch 1 again update for branch 1 
+This is sample two branch 1 again update for branch 1
+code change from master
