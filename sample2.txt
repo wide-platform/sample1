@@ -1,1 +1,3 @@
-This is sample two branch 1 again update for branch 1 
+This is sample two branch 1 again update for branch 1
+second code chage from branch1
+
